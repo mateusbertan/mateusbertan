@@ -1,5 +1,5 @@
 # Oiii 👋
-Me chamo Mateus, tenho 15 anos e amo muito tecnologia, principalmente programação e eletrônica! 🧑‍💻
+Me chamo Mateus, tenho 16 anos e amo muito tecnologia, principalmente programação e eletrônica! 🧑‍💻
 
 Gosto de desenvolver alguns projetos pequenos e agora em 2024 vou começar a ser mais ativo no GitHub e participar da comunidade Open Source para conseguir aprender mais e ajudar os outros também 💖
 
